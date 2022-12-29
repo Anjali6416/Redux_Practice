@@ -12,6 +12,8 @@
   "type": "module",
   "dependencies": {
     "react-redux": "^8.0.5",
-    "redux": "^4.2.0"
+    "react-router-dom": "^6.6.1",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6"
   }
 }
